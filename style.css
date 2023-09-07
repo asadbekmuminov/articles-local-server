@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+ul {
+  list-style: none;
+}
+.hidden {
+  display: none;
+}
